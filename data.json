@@ -1,1 +1,42 @@
-[{"title": "Charging the Vehicle", "content": "To charge your BYD Sealion 7, connect the charger to the port and monitor the dashboard for confirmation."}, {"title": "Cruise Control", "content": "Activate cruise control by pressing the button on the steering wheel and setting your desired speed."}]
+[
+  {
+    "title": "Charging the Vehicle",
+    "content": "To charge your BYD Sealion 7, ensure the vehicle is parked and turned off. Open the charging port cover located on the left rear side of the vehicle. Plug in the appropriate charging connector and monitor the dashboard for charging status. Refer to pages 46–49 for charging options and LED indicator meanings."
+  },
+  {
+    "title": "Drive Modes Explained",
+    "content": "Your vehicle supports multiple drive modes including Eco, Normal, and Sport. Switch between these using the drive mode selector on the center console. Eco mode maximizes efficiency, Sport mode increases throttle response. See pages 92–94."
+  },
+  {
+    "title": "Using Cruise Control",
+    "content": "To activate cruise control, press the cruise button on the steering wheel. Accelerate to your desired speed and press SET. Adjust speed using +/- controls. To cancel, tap the brake or press the cancel button. Full details on pages 103–105."
+  },
+  {
+    "title": "Adaptive Cruise Control",
+    "content": "Adaptive Cruise Control (ACC) maintains a set distance from the vehicle ahead. Use the distance control buttons to adjust gap. ACC may not function in all conditions. See pages 106–109."
+  },
+  {
+    "title": "TPMS – Tyre Pressure Monitoring",
+    "content": "The TPMS system alerts you to low tyre pressure. You can view individual tyre pressures on the touchscreen display. Refer to pages 133–134 for reset instructions."
+  },
+  {
+    "title": "Opening the Frunk",
+    "content": "To open the front trunk (frunk), pull the release lever located under the dashboard. Then lift the hood and secure it with the support rod. See pages 38–39."
+  },
+  {
+    "title": "Infotainment System Overview",
+    "content": "The infotainment touchscreen provides access to navigation, audio, Bluetooth, and settings. Swipe left/right to browse screens. Refer to pages 145–160."
+  },
+  {
+    "title": "Wireless Phone Charging",
+    "content": "Place your compatible phone on the wireless charging pad in the center console. A charging icon will appear on screen. Remove metallic items to avoid overheating. See page 88."
+  },
+  {
+    "title": "Lane Keeping Assist",
+    "content": "Lane Keeping Assist (LKA) helps you stay within your lane using camera-based detection. It may apply slight steering corrections. See pages 110–112."
+  },
+  {
+    "title": "Automatic Emergency Braking",
+    "content": "The AEB system detects potential collisions and applies brakes if necessary. Always stay alert; system may not detect all hazards. Full safety instructions on pages 113–117."
+  }
+]
