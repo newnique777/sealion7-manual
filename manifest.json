@@ -1,0 +1,10 @@
+{
+  "name": "Sealion 7 Manual",
+  "short_name": "BYD Manual",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#121212",
+  "description": "Interactive BYD Sealion 7 Owner's Manual",
+  "theme_color": "#121212",
+  "icons": []
+}
